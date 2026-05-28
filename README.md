@@ -1,4 +1,8 @@
-<h1 align="center">Anushka Mulik</h1><h3 align="center">Aspiring Software Engineer | BCA Student | Python & Full Stack Developer</h3><p align="center">
+Hi 👋, I'm Anushka Mulik
+
+Aspiring Software Engineer | BCA Student | Python & Full Stack Developer
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Enthusiast;Python+Developer;Full+Stack+Web+Developer;DSA+Learner;Building+Real+World+Projects" />
 </p>---
 
@@ -10,7 +14,7 @@ I focus on:
 
 - Writing clean, structured code
 - Understanding core CS fundamentals
-- Building project-based learning systems
+- Building project-based systems
 - Improving problem-solving skills daily
 
 ---
@@ -27,37 +31,30 @@ I focus on:
 
 🛠️ Technical Skills
 
-Programming Languages
-
+Programming Languages:
 Python • C • JavaScript
 
-Web Development
-
+Web Development:
 HTML • CSS
 
-Databases
-
+Databases:
 MySQL • DBMS Basics
 
-Tools & Platforms
-
+Tools & Platforms:
 Git • GitHub • VS Code
 
 ---
 
-📂 Featured Engineering Projects
+📂 Featured Projects
 
 🔹 Path2Learn Donation Management System
-
-Full-stack system designed to streamline educational donation workflows with structured backend logic.
+Full-stack system designed to streamline educational donation workflows.
 
 🔹 Emergency Room Triage System
-
-Priority-based patient handling system using Data Structures (Queue implementation).
+Data Structures project using queue-based patient prioritization logic.
 
 🔹 Dynamic Pricing System (AI - MATLAB)
-
-Adaptive pricing simulation using data-driven logic and AI-based modeling.
+AI-based pricing simulation using dynamic input analysis.
 
 ---
 
@@ -75,7 +72,7 @@ Adaptive pricing simulation using data-driven logic and AI-based modeling.
 
 - Advanced Python Development
 - Full Stack System Design Basics
-- Data Structures & Algorithms (C/Python)
+- Data Structures & Algorithms
 - REST APIs & Backend Fundamentals
 - GitHub Open Source Contribution
 
@@ -97,6 +94,4 @@ To secure a software development internship where I can apply my technical knowl
 
 ⚡ Engineering Mindset
 
-«“I don’t just learn code — I build systems, understand logic, and improve every day.”»
-
----
+“I don’t just learn code — I build systems, understand logic, and improve every day.”
